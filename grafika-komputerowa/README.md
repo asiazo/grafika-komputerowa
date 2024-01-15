@@ -1,2 +1,3 @@
 # grafika-komputerowa
 Animacja...
+new.py to jest główna funkcja
